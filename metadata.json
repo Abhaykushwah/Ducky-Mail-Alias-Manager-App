@@ -1,0 +1,6 @@
+{
+  "name": "Ducky Alias",
+  "description": "DuckDuckGo email alias generator and token manager with history, notes, and Proton Pass inspired dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

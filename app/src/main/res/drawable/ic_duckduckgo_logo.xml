@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Official DuckDuckGo Red-Orange Circular Badge -->
+    <path
+        android:fillColor="#DE5833"
+        android:pathData="M50,0 C77.61,0 100,22.39 100,50 C100,77.61 77.61,100 50,100 C22.39,100 0,77.61 0,50 C0,22.39 22.39,0 50,0 Z"/>
+
+    <!-- Dax the Duck Head & Neck (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,68 C33,52 40,38 48,25 C54,16 64,18 70,24 C74,28 73,36 68,43 C64,48 58,52 58,60 C58,68 52,76 40,76 Z"/>
+
+    <!-- Dax's Orange Beak -->
+    <path
+        android:fillColor="#F3A81C"
+        android:pathData="M61,33 C69,31 84,33 87,40 C89,45 80,48 70,46 C66,45 62,39 61,33 Z"/>
+
+    <!-- Dax's Eye (Dark) -->
+    <path
+        android:fillColor="#2D1910"
+        android:pathData="M56,29 C57.66,29 59,30.34 59,32 C59,33.66 57.66,35 56,35 C54.34,35 53,33.66 53,32 C53,30.34 54.34,29 56,29 Z"/>
+
+    <!-- Eye Catchlight (White dot) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,30.5 C57.55,30.5 58,30.95 58,31.5 C58,32.05 57.55,32.5 57,32.5 C56.45,32.5 56,32.05 56,31.5 C56,30.95 56.45,30.5 57,30.5 Z"/>
+
+    <!-- Dax's Blue Bowtie -->
+    <path
+        android:fillColor="#3A87D6"
+        android:pathData="M40,65 C36,62 44,60 47,63 C50,60 58,62 54,65 C50,68 47,64 47,64 C47,64 44,68 40,65 Z"/>
+
+    <!-- Green Shirt Collar -->
+    <path
+        android:fillColor="#54A738"
+        android:pathData="M30,76 C35,69 44,69 49,76 C42,83 33,83 30,76 Z"/>
+</vector>

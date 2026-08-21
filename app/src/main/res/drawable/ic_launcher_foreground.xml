@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Background Contour -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,24 L78,32 V54 C78,69 67,80 54,84 C41,80 30,69 30,54 V32 Z" />
+    <!-- Inner Email Envelope Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,42 C36.9,42 36,42.9 36,44 V62 C36,63.1 36.9,64 38,64 H70 C71.1,64 72,63.1 72,62 V44 C72,42.9 71.1,42 70,42 H38 Z M54,54.5 L39.5,44.5 H68.5 L54,54.5 Z" />
+    <!-- Duck Beak Accent -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,58 L60,62 L54,66 L48,62 Z" />
+</vector>
